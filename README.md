@@ -118,5 +118,5 @@ class SupplyChainOptimizer:
 * **Commercial Restraints:** White-labeling, re-packaging, or direct commercial resale of this optimization model template layout on secondary digital asset stores or public marketplace frameworks is strictly prohibited.
 
 ---
-*Maintained under a clean, secure corporate asset architecture by IndustrialByte Analytics.*
+*Maintained under a clean, secure corporate asset architecture by IndustrialByte Labs.*
 
